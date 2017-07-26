@@ -44,27 +44,71 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 比赛预告
 
-### 16强
+### 半决赛
 
- 7月8日，星期六
+7月22日，星期六
 
-| 比赛时间 (UTC+8) | 蓝队 | | | 红队 | 比赛编号 |
+| 比赛时间（UTC+8） | 蓝队 | | | 红队 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | drunkenstein | ![][HK] | ![][CN] | - ZedXD - | A |
-| 16:00 | [Crz]Riri | ![][CN] | ![][CN] | spensll | B |
-| 20:00 | NED_Q | ![][CN] | ![][CN] | wjh123 | C |
-| 21:00 | Stink God | ![][CN] | ![][CN] | [Crz]MemoryI | D |
+| 13:30-15:00 | NED_Q | ![][CN] | ![][AU] | [Crz]Yukikaze- | X |
+| 15:00-16:30 | drunkenstein | ![][HK] | ![][CN] | pikechu | Y |
+| 16:30-18:00 | - Choma - | ![][TW] | ![][CN] | - ZedXD - | V |
+| 20:00-21:30 | [Crz]Liusecy | ![][CN] | ![][CN] | Stink God | W |
+| 21:30-23:00 | [Crz]Riri | ![][CN] | ![][CN] | [Crz]MemoryI | M |
 
-7月9日，星期日
+7月23日，星期日
 
-| 比赛时间 (UTC+8) | 蓝队 | | | 红队 | 比赛编号 |
+| 比赛时间（UTC+8） | 蓝队 | | | 红队 | 比赛编号 |
 | :--: | ---: | ---: | :--- | :--- | :--: |
-| 13:00 | [Crz]Liusecy | ![][CN] | ![][CA] | Murasame | E |
-| 14:00 | Neokje | ![][MY] | ![][AU] | [Crz]Yukikaze- | F |
-| 15:00 | - Choma - | ![][TW] | ![][CN] | pikechu | G |
-| 20:00 | [Crz]ScSolAr | ![][CN] | ![][CN] | [Crz]Mix0130 | H |
+| 20:00-21:30 | - Choma - | ![][TW] | ![][CN] | Stink God | Z |
+| 21:30-23:00 | Neokje | ![][MY] | ![][CN] | [Crz]ScSolAr | N |
+| 23:00-24:30 | NED_Q | ![][CN] | ![][CN] | pikechu | AA |
 
 ## 比赛图池
+
+### 半决赛
+
+[点此下载全部](https://1drv.ms/u/s!Akj69f-fUdi3hSV0mmh3EYXWfOwz)
+- [Mick Gordon - Cyberdemon (Lazarus)](https://osu.ppy.sh/b/1231110)
+- [Hitori Tori - perthed again (yambabom remix) (Difficulty 3)](https://osu.ppy.sh/b/1207006)
+- [LeaF - MEPHISTO (4K LN Massacre)](https://osu.ppy.sh/b/1134593)
+- [yanaginagi - landscape (ShuChan!!)](https://osu.ppy.sh/b/1147214)
+- [DJ Sharpnel - TACTICAL RAILROAD (EXTREME)](https://osu.ppy.sh/b/1119190)
+- [a_hisa - Cheshire's dance (LN Dancing)](https://osu.ppy.sh/b/1175264)
+- [Camellia - Shun no Shifudo o Ikashita Kare Fumi Paeria (Octodad Twerk Theme)](https://osu.ppy.sh/b/1036648)
+- [Kaneko Chiharu - iLLness LiLin (jAkAd's MAXIMUM)](https://osu.ppy.sh/b/1245015)
+- [xi - Solar Storm (Extra[old])](https://osu.ppy.sh/b/989233)
+- [m108 - * Crow Solace * (Meme Solace)](https://osu.ppy.sh/b/1201027)
+- [Fallujah - Sapphire (Cerulean)](https://osu.ppy.sh/b/970464)
+- [Nizikawa - Drop That (Ghettoblaster) v1.1 (break-even)](https://osu.ppy.sh/b/972575)
+- [Shiron + Kofu x Morimori Atsushi to Teikyo de okuri shimasu. - Demise Quartet (BAN SDVX)](https://osu.ppy.sh/b/1229459)
+- [xi - Aparajita (Ambitious King)](https://osu.ppy.sh/b/1206343)
+- [gmtn vs. kozato (fw. LUZE) - squartatrice (VonSeckendorff)](https://osu.ppy.sh/b/898932)
+- [Noah - Immortal saga (4K MXM)](https://osu.ppy.sh/b/1349837)
+
+TB:
+- [Camellia - Exit This Earth's Atomosphere (Spaceship)](https://osu.ppy.sh/b/1043774)
+
+### 四分之一决赛
+
+[点此下载全部](https://1drv.ms/u/s!AuGED5b9f0uloUjg8WuPP1a5m3Gx)  
+- [DJ Genki feat. yukacco - Candy Star \[Noodle Star\]](https://osu.ppy.sh/b/1243769)
+- [Nauts - Second Run (Core Mix)  \[4K LN\]](https://osu.ppy.sh/b/1258021)
+- [Camellia - Singularity  \[Artificial Mind\]](https://osu.ppy.sh/b/1073952)
+- [Helblinde - The Solace of Oblivion \[A Lie's Asgard\]](https://osu.ppy.sh/b/1274057)
+- [Musical Masterpiece - MANIERA \[ilikexd's FOOLISH\]](https://osu.ppy.sh/b/535893)
+- [Nekomata L.E.D. Master+ - Chrono Diver -PENDULUMs- \[Rage!!\]](https://osu.ppy.sh/b/835621)
+- [Ryu* Vs. Sota - Go Ahead!! \[Legendaria\]](https://osu.ppy.sh/b/1212926)
+- [xi - Aragami \[Ultimate\]](https://osu.ppy.sh/b/757103)
+- [Omnipotenx - PEACE BREAKER \[NEGATIVE LEVEL 6\]](https://osu.ppy.sh/b/1215329)
+- [Demetori - Wind God Girl \[14\]](https://osu.ppy.sh/b/1306105)
+- [Gram - Sigmund \[Karasu's Leggendaria\]](https://osu.ppy.sh/b/1347575)
+- [Iced Blade feat. Rita - Sora no Kodou (short ver.) \[4K Liberation\]](https://osu.ppy.sh/b/942355)
+- [EYKHA & LOU & MERYL - Delta Decision \[Domination\]](https://osu.ppy.sh/b/1276313)
+- [t+pazolite - cheatreal \[TUTORIAL\]](https://osu.ppy.sh/b/873247)
+
+TB:
+- [Billain - Specialist \[Maestro\]](https://osu.ppy.sh/b/1216877)
 
 ### 16强
 
@@ -82,7 +126,7 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 - [SYUNN - Megalara Garuda \[EXTREME\]](https://osu.ppy.sh/b/1134548)  
 - [Tatsh - reunion <Platinum Long Version> \[victorica'4K MX\]](https://osu.ppy.sh/b/315361)  
 - [nao - Symmetric generation \[NEPGEAR\]](https://osu.ppy.sh/b/902070)  
-- [P*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/b/1135210)  
+- [P\*Light - NINJA IS DEAD IIDX ver. \[Spy's Leggendaria\]](https://osu.ppy.sh/b/1135210)  
 
 TB:  
 - [Shoujo - Reminiscing \[Memories\]](https://osu.ppy.sh/b/1038482)
@@ -90,10 +134,10 @@ TB:
 ### 小组赛
 
 [**点此下载全部**](https://1drv.ms/u/s!AuGED5b9f0uloSC-zNJGthpjbLkb)  
-- [Ryu* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750)  
+- [Ryu\* Vs. L.E.D.-G - PARADISE LOST \[CS'Another\]](https://osu.ppy.sh/b/1171750)  
 - [Diceros Bicornis - Innocent Tempest \[Zan's EXHAUST\]](https://osu.ppy.sh/b/818950)  
 - [kors k - Playing with Fire (Sota Fujimori Remix) \[Dancing Blaze\]](https://osu.ppy.sh/b/1032948)  
-- [P*Light feat. mow*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997)  
+- [P\*Light feat. mow\*2 - OVERDRIVERS \[EXTREME\[LN\]\]](https://osu.ppy.sh/b/1224997)  
 - [Raika - Long Note Practice Pack \[Level(6)4K\]](https://osu.ppy.sh/b/816623)  
 - [Envy - Paladin \[SV-Fest\]](https://osu.ppy.sh/b/1044428)  
 - [sasakure.UK - Atropos (Short Edit) \[Lachesis\]](https://osu.ppy.sh/b/693529)  
@@ -138,68 +182,65 @@ TB:
 
 ## 比赛结果
 
-### 小组赛
+### 四分之一决赛
 
-#### A组
+| 日期 | 蓝队 | | 比分 | | 红队 | 附 | 比赛编号 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: | :--: |
+| 7月15日 | drunkenstein | ![][HK] | 0 : 5 | ![][CN] | [Crz]Riri | [记录](https://osu.ppy.sh/mp/34542511) | I |
+| | - ZedXD - | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/mp/34543141) | R |
+| | wjh123 | ![][CN] | 0 : 5 | ![][CN] | Stink God | 缺席 | S |
+| | NED_Q | ![][CN] | 3 : 5 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/mp/34547424) | J |
+| 7月16日 | Murasame | ![][CA] | 0 : 5 | ![][AU] | [Crz]Yukikaze- | 缺席 | T |
+| | pikechu | ![][CN] | 5 : 1 | ![][CN] | [Crz]Mix0130 | [记录](https://osu.ppy.sh/mp/34566588) | U |
+| | [Crz]Liusecy | ![][CN] | 0 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/mp/34570396) | K |
+| | - Choma - | ![][TW] | 2 : 5 | ![][CN] | [Crz]ScSolAr | [记录](https://osu.ppy.sh/mp/34571413) | L |
+
+### 16强
+
+| 日期 | 蓝队 | | 比分 | | 红队 | 附 | 比赛编号 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: | :--: |
+| 7月8日 | drunkenstein | ![][HK] | 5 : 1 | ![][CN] | - ZedXD - | [记录](https://osu.ppy.sh/mp/34380098) | **A** |
+| | [Crz]Riri | ![][CN] | 5 : 0 | ![][CN] | spensll | [记录](https://osu.ppy.sh/mp/34380710) | **B** |
+| | NED_Q | ![][CN] | 5 : 0 | ![][CN] | wjh123 | [记录](https://osu.ppy.sh/mp/34384012) | **C** |
+| | Stink God | ![][CN] | 5 : 1 | ![][CN] | [Crz]MemoryI | [记录](https://osu.ppy.sh/mp/34385381) | **D** |
+| 7月9日 | [Crz]Liusecy | ![][CN] | 5 : 0 | ![][CA] | Murasame | 缺席 | **E** |
+| | Neokje | ![][MY] | 5 : 0 | ![][AU] | [Crz]Yukikaze- | 缺席 | **F** |
+| | - Choma - | ![][TW] | 5 : 0 | ![][CN] | pikechu | [记录](https://osu.ppy.sh/mp/34404265) | **G** |
+| | [Crz]ScSolAr | ![][CN] | 5 : 0 | ![][CN] | [Crz]Mix0130 | [记录](https://osu.ppy.sh/mp/34407900) | **H** |
+
+### 小组赛
 
 | 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
 | ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***A組*** | | | | | | | | |
 | Pridra Yinda | ![][CN] | 0 : 4 | ![][MY] | [Xiiao]Ray | | drunkenstein | ![][HK] | 4 : 0 | ![][CN] | Pridra Yinda |
 | Murasame | ![][CA] | 4 : 0 | ![][CN] | Pridra Yinda | | Murasame | ![][CA] | 0 : 4 | ![][MY] | [Xiiao]Ray |
 | drunkenstein | ![][HK] | 4 : 0 | ![][CA] | Murasame | | drunkenstein | ![][HK] | 4 : 0 | ![][MY] | [Xiiao]Ray |
-
-#### B组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***B组*** | | | | | | | | |
 | [Crz]Liusecy | ![][CN] | 2 : 4 | ![][CN] | - ZedXD - | | fgdg858 | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai |
 | - ZedXD - | ![][CN] | 1 : 4 | ![][CN] | fgdg858 | | [Crz]Liusecy | ![][CN] | 1 : 4 | ![][CN] | fgdg858 |
 | - ZedXD - | ![][CN] | 4 : 0 | ![][MY] | Chizuru Shinkai | | [Crz]Liusecy | ![][CN] | 0 : 4 | ![][MY] | Chizuru Shinkai |
-
-#### C组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***C组*** | | | | | | | | |
 | BDXiaoQian | ![][SG] | 0 : 4 | ![][CN] | Stink God | | zero2snow | ![][HK] | 0 : 0 | ![][CN] | Stink God |
 | zero2snow | ![][HK] | 0 : 4 | ![][CN] | wjh123 | | zero2snow | ![][HK] | 0 : 4 | ![][SG] | BDXiaoQian |
 | BDXiaoQian | ![][SG] | 2 : 4 | ![][CN] | wjh123 | | wjh123 | ![][CN] | 3 : 4 | ![][CN] | Stink God |
-
-#### D组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***D组*** | | | | | | | | |
 | NED_Q | ![][CN] | 4 : 0 | ![][HK] | Opean | | hly200 | ![][CN] | 4 : 0 | ![][HK] | Opean |
 | NED_Q | ![][CN] | 0 : 4 | ![][CN] | [Crz]MemoryI | | [Crz]MemoryI | ![][CN] | 4 : 0 | ![][HK] | Opean |
 | hly200 | ![][CN] | 3 : 4 | ![][CN] | NED_Q | | [Crz]MemoryI | ![][CN] | 0 : 4 | ![][CN] | hly200 |
-
-#### E组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***E组*** | | | | | | | | |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] |  - Xiaoluoli - | | qiluo | ![][CN] | 4 : 1 | ![][CN] | spensll |
 | Neokje | ![][MY] | 4 : 0 | ![][CN] | spensll | | qiluo | ![][CN] | 4 : 1 | ![][CN] | - Xiaoluoli - |
 | Neokje | ![][MY] | 4 : 1 | ![][CN] | qiluo | | spensll | ![][CN] | 4 : 0 | ![][CN] | - Xiaoluoli - |
-
-#### F组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***F组*** | | | | | | | | |
 | [Crz]Riri | ![][CN] | 4 : 1 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] | prelude8792916 |
 | WF Night | ![][CN] | 0 : 4 | ![][AU] | [Crz]Yukikaze- | | [Crz]Riri | ![][CN] | 4 : 0 | ![][CN] |  WF Night |
 | [Crz]Yukikaze- | ![][AU] | 4 : 0 | ![][CN] | prelude8792916 | | WF Night | ![][CN] | 0 : 0 | ![][CN] | prelude8792916 |
-
-#### G组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***G组*** | | | | | | | | |
 | AnLs | ![][HK] | 0 : 4 | ![][TW] | - Choma - | | Luv Letter | ![][CN] | 0 : 4 | ![][CN] | [Crz]Mix0130 |
 | [Crz]Mix0130 | ![][CN] | 4 : 0 | ![][CN] | AnLs | | - Choma - | ![][TW] | 4 : 0 | ![][HK] | AnLs |
 | [Crz]Mix0130 | ![][CN] | 0 : 4 | ![][TW] | - Choma - | | AnLs | ![][HK] | 4 : 0 | ![][CN] | Luv Letter |
-
-#### H组
-
-| 蓝队 | | 比分 | | 红队 | | 蓝队 | | 比分 | | 红队 |
-| ---: | ---: | :--: | :--- | :--- | :--: | ---: | ---: | :--: | :--- | :--- |
+| ***H组*** | | | | | | | | |
 | Banshasan | ![][CN] | 0 : 4 | ![][CN] | [Crz]ScSolAr | | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | pikechu |
 | [M1nzzZ] | ![][CN] | 0 : 4 | ![][CN] | Banshasan | | [Crz]ScSolAr | ![][CN] | 4 : 1 | ![][CN] | pikechu |
 | [Crz]ScSolAr | ![][CN] | 0 : 0 | ![][CN] | [M1nzzZ] | | pikechu | ![][CN] | 4 : 1 | ![][CN] | Banshasan |
