@@ -44,26 +44,8 @@ Twitch 直播平台：[aiyulu](https://www.twitch.tv/aiyulu)。
 
 ## 比赛预告
 
-### 决赛第一周
+### 总决赛
 
-7月29日，星期六
-
-| 比赛时间（UTC+8） | 蓝队 | | | 红队 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 15:00 | [Crz]Riri | ![][CN] | ![][TW] | - Choma - | **AB** |
-| 20:00 | [Crz]MemoryI | ![][CN] | ![][CN] | [Crz]ScSolAr | **O** |
-| 21:30 | pikechu | ![][CN] | ![][MY] | Neokje| **AC** |
-
-7月30日，星期日
-
-* 比赛AB和AC的获胜者将会进入比赛AD。
-
-| 比赛时间（UTC+8） | 蓝队 | | | 红队 | 比赛编号 |
-| :--: | ---: | ---: | :--- | :--- | :--: |
-| 16:00 | [Crz]Riri | ![][CN] | ![][CN] | pikechu | **AD** |
-| 16:00 | Neokje | ![][MY] | ![][CN] | [Crz]Riri | **AD** |
-| 16:00 | - Choma - | ![][TW] | ![][CN] | pikechu | **AD** |
-| 16:00 | Neokje | ![][MY] | ![][TW] | - Choma - | **AD** |
 
 ## 比赛图池
 
@@ -205,6 +187,15 @@ TB:
 - [Camellia – Lunatic Rough Party!! (Long Ver.)\[Lunatic\]](https://osu.ppy.sh/b/646319)
 
 ## 比赛结果
+
+### 决赛第一周
+
+| 日期 | 蓝队 | | 比分| | 红队 | 附 |
+| :--: | ---: | ---: | :--: | :--- | :--- | :--: |
+| 29. July | [Crz]Riri | ![][CN] | 0 : 6 | ![][TW] | - Choma - | [记录](https://osu.ppy.sh/community/matches/34872032) |
+| | [Crz]MemoryI | ![][CN] | 6 : 0 | ![][CN] | [Crz]ScSolAr | 缺席 |
+| | pikechu | ![][CN] | 2 : 6 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34873568) |
+| 30. July | - Choma - | ![][TW] | 6 : 5 | ![][MY] | Neokje | [记录](https://osu.ppy.sh/community/matches/34893510) |
 
 ### 半决赛
 
